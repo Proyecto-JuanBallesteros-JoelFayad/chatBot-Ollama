@@ -17,7 +17,7 @@ SNAKE_KEYWORDS = [
     "serpiente", "serpientes", "culebra", "culebras", "vibora", "viboras",
     "boa", "piton", "python", "cascabel", "anaconda", "cobra",
     "mamba", "coral", "ofidio", "ofidios", "reptil", "reptiles",
-    "veneno", "mordedura", "escamas", "muda", "constrictora"
+    "veneno", "mordedura", "escamas", "muda", "constrictora","bibora","bivora"
 ]
 
 FALLBACK_MESSAGE = "No tengo informacion sobre ese tema. Solo puedo responder preguntas sobre serpientes."
